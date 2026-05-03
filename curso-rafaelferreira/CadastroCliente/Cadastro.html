@@ -7,7 +7,7 @@ div{
     background-color: #f6f6f6;
     overflow: hidden;
 }
-input[type=text],textarea, select{
+input[type=text],input[type=email],textarea, select{
     font: 17px Calibri;
     width: 100%;
     padding: 12px;
@@ -32,7 +32,7 @@ input[type=button]{
             <input type="text" id="txtIdade" placeholder="Idade Cliente">
         </div>
         <div>
-            <input type="text" id="txtEmail" placeholder="Email Cliente">
+            <input type="email" id="inputEmail" placeholder="Email Cliente">
         </div>
         <div>
             <select id="SelPais">
@@ -54,14 +54,16 @@ function Salvar(){
     //pegando variaveis
     var name = document.getElementById('txtName').value;//na minha pagina em html.pegando elemeneto pelo id tal...
     var idade = document.getElementById('txtIdade').value;
-    var email = document.getElementById('txtEmail').value;
+    var email = document.getElementById('inputEmail').value;
     var pais = document.getElementById('SelPais').value;
     
-    var data = 
-    '\ As informacoes abaixo estao corretas? \r Name: ' + name + ' \r\n' +'Idade:'+ idade +'\r\n'+'Email:'+ email +'\r\n'+'Pais:'+ pais+'\r\n';
-    confirm(data);
+    var data =`
+    Nome:${name}
+    Idade${idade}
+    Email:${email}
+    País:${pais}`
+confirm(data);
 }
-
 </script>
     </script>
 </body>
