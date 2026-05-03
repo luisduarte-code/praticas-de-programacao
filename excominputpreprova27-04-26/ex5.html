@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <style>
+div{
+    padding: 10px;
+    background-color: #f6f6f6;
+    overflow: hidden;
+}
+input[type=datetime-local],select,textarea{
+ font: 17px Calibri;
+    width: 80%;
+    padding: 12px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    
+}
+
+
+    </style>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Agendamento de manutenção em equipamentos ou ambiente</title>
+</head>
+<body>
+    <form action="..." method="post">
+    <div>
+        <div>
+                <input type="hidden">
+        </div>
+
+        <div>
+                <label for="data">Selecione a data:<input type="datetime-local" name="diamanutencao" id="dtManutencao"></label>
+        </div>
+
+        <div>
+            Escolha o serviço:<select name="servicos" id="SelSer">
+                <option value="Eletrica">Elétrica</option>
+                <option value="Informatica">Informática</option>
+                <option value="Limpeza">Limpeza</option>
+            </select>
+        </div>
+
+        <div>
+            Observações:<textarea id="txtArea" name="obs"></textarea>
+        </div>
+
+        <div>
+            <input 
+                type="image" 
+                src="joiapage.jpg" 
+                alt="Enviar solicitação de manutenção"
+                width="120"
+                name="submeter"  id="submitimg"     onclick="Salvar()">
+        </div>
+
+    </div>
+    </form>
+    <script>
+        function Salvar(){
+
+        
+        var Dia =document.getElementById("dtManutencao").value;
+        var Serviço =document.getElementById("SelSer").value;
+        var Obs =document.getElementById("txtArea").value;
+        
+        var data =`Os dados estão corretos?
+        Dia:${Dia}
+        Serviço:${Serviço}
+        Observações:${Obs}
+        `
+        confirm(data);
+        }
+        </script>
+</body>
+</html>
