@@ -1,0 +1,18 @@
+[
+  {
+    "ContainingType": "CadastroClientes.Controllers.ClientesController",
+    "Method": "Salvar",
+    "RelativePath": "api/Clientes/Salvar",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "cadastro",
+        "Type": "CadastroClientes.Models.Clientes",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
