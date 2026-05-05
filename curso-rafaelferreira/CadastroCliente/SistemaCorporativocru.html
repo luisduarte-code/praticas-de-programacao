@@ -1,0 +1,240 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Sistema de Cadastro Unico</title>
+</head>
+
+<body>
+
+    <nav>
+        <div>
+            <div>
+                <button type="button">
+                    Toggle navigation
+                </button>
+                <a href="#">Sistema de Cadastro Unico</a>
+            </div>
+            <div id="navbar">
+                <ul>
+                    <li>
+                        <a href="vendas.html">Vendas</a>
+                    </li>
+                    <li>
+                        <a href="Estoque.html">Estoque</a>
+                    </li>
+                    <li>
+                        <a href="Estoque.html">Contatos</a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+                            <!--Até aqui é só navbar-->
+    <div>
+        <div id="myModal"><!--esta servindo como um identificador para o javascript-->
+            <div>
+                <div>
+                    <div>
+                        <h3>CADASTRO DE CLIENTE</h3>
+                    </div>
+                    
+                    <div>
+                        <form action="#">
+                            <fieldset>
+                                <legend>Dados Pessoais</legend>
+                                <div>
+                                    <label for="Documento">Documento</label>
+                                    <div>
+                                        <input type="text" id="Documento">
+                                    </div>
+                                </div>                                                
+                                
+                                <div>
+                                    <label for="nome">Nome</label>
+                                    <div>
+                                        <input type="text" id="nome">
+                                    </div>
+                                </div>
+                                
+                                <div>
+                                    <label>Sexo</label>
+                                    <div>
+                                        <label>
+                                            <input type="radio" name="sexo" id="feminino" value="FEMININO"> Feminino
+                                        </label>
+
+                                        <label>
+                                            <input type="radio" name="sexo" id="masculino" value="MASCULINO"> Masculino
+                                        </label>
+                                    </div>
+                                </div>
+                                
+                            </fieldset>
+                            
+                            <fieldset>
+                                <legend>Contato</legend>
+                                <div>
+                                    <label for="email">Email</label>
+                                    <div>
+                                        <input type="email" id="email">
+                                    </div>
+                                </div>
+                                
+                                <div>
+                                    <label for="telefone">Telefone</label>
+                                    <div>
+                                        <input type="tel" id="telefone">
+                                    </div>
+                                </div>
+                                <div>
+                                    <label for="fax">Fax</label>
+                                    <div>
+                                        <input type="tel" id="fax">
+                                    </div>
+                                </div>
+                            </fieldset>
+                            
+                            <fieldset>
+                                <div>
+                                    <label for="uf">UF</label>
+                                    <div>
+                                        <select name="uf" id="uf">
+                                            <option value="AC">AC</option>
+                                            <option value="AL">AL</option>
+                                            <option value="AM">AM</option>
+                                            <option value="AP">AP</option>
+                                            <option value="BA">BA</option>
+                                            <option value="CE">CE</option>
+                                            <option value="DF">DF</option>
+                                            <option value="ES">ES</option>
+                                            <option value="GO">GO</option>
+                                            <option value="MA">MA</option>
+                                            <option value="MG">MG</option>
+                                            <option value="MS">MS</option>
+                                            <option value="MT">MT</option>
+                                            <option value="PA">PA</option>
+                                            <option value="PE">PE</option>
+                                            <option value="PI">PI</option>
+                                            <option value="PR">PR</option>
+                                            <option value="RJ">RJ</option>
+                                            <option value="RN">RN</option>
+                                            <option value="RO">RO</option>
+                                            <option value="RR">RR</option>
+                                            <option value="RS">RS</option>
+                                            <option value="SC">SC</option>
+                                            <option value="SE">SE</option>
+                                            <option value="SP">SP</option>
+                                            <option value="TO">TO</option>
+                                        </select>
+                                    </div>
+                                </div>
+                            </fieldset>
+                            
+                            <button type="button" onclick="SalvarCadastro();">
+                                Gravar
+                            </button>
+                        </form>
+                        
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- uma div que encobre todos os campos no qual o usuario deve inserir os seus dados-->
+        <div>
+            <div>
+                <h3>CLIENTES CADASTRADOS</h3>
+            </div>
+            
+            <div>
+                <a href="#" onclick="document.getElementById('myModal').style.display='block';">
+                    Novo
+                </a>    
+                <div>
+                    <table id="ListaCadastro">
+                        <thead>
+                            <tr>
+                                <th>Documento</th>
+                                <th>NOME</th>
+                                <th>EMAIL</th>
+                                <th>TELEFONE</th>
+                                <th>AÇÕES</th>
+                            </tr>
+                        </thead>
+                    </table>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!--Aqui mostra todos os clientes cadastrados-->
+    <script src="resources/js/jquery.min.js"></script>
+    <script>
+        function SalvarCadastro()
+        {            
+            var Documento = $("#Documento").val();//pega o texto que o usuário digitou no <input id="Documento">. ele vai pegar o que o usuari=o inseriu no campo.
+            var Nome= $("#nome").val();//document.getElementById('nome').value= se fosse usado javascript puro
+            var Email= $("#email").val();
+            var Telefone= $("#telefone").val();
+            var validar = 1; 
+            
+            if(Documento == "")// if para validar se um campo é vazio ele retorna falando que é obrigatório e deixa o botao vermelho
+            {
+                validar = 0;
+                alert('O campo documento é obrigatório');
+                $("#Documento").css("background-color", "red");//seleciona o elemento id="documento" e define o background-color com red mudando o fundo
+            }
+            
+            if(Nome == "")
+            {
+                alert('O campo Nome é obrigatório');// mesma coisa que no primeiro if
+                $("#nome").css("background-color", "red");
+                validar = 0;
+            }
+            
+            if(validar == 1)// aqui se o validar for 1 ou seja, passar pelos dois ifs de antes, ele insere os dados na tabela interativa ao chamar a Função AdicionarLinhaTabela e após adicionar ele limpa os dados com a Função LimparCamposForm.
+            {
+                AdicionarLinhaTabela(Documento, Nome, Email, Telefone);
+                LimparCamposForm();
+            }
+        }
+        function AdicionarLinhaTabela(Documento, Nome, Email, Telefone)// o que está entre parentees sao as variávies nos quais sao passado para a Função
+        {            
+            linhaNova = `
+                <tr id="Linha${Documento}">
+                    <td>${Documento}</td>
+                    <td>${Nome}</td>
+                    <td>${Email}</td>
+                    <td>${Telefone}</td>
+                    <td>
+                        <a href="#" onclick="UpdateUsuario('${Documento}')">Editar</a>
+                        <a href="#" onclick="RemoveLinha('${Documento}')">Excluir</a>
+                    </td>
+                </tr>`;//la no inicio atribui um novo id pra cada linha que acabara a identificando para depois ser removida .val() → 📥 pega o valor ${} → 🏷️ cola o valor dentro de um texto
+
+            
+            $("#ListaCadastro").prepend(linhaNova);
+            document.getElementById('myModal').style.display='none';// $("#myModal").css("display", "none");em jquery
+        }
+        
+        function LimparCamposForm()//a função chamada após preencher os dados
+        {
+            $("#Documento").val("");
+            $("#nome").val("");
+            $("#email").val("");
+            $("#telefone").val("");
+        }
+        function RemoveLinha(Documento)//puxa o valor que o documento tem e remove
+        {
+            $('#Linha'+Documento).remove();
+        }
+        
+        function UpdateUsuario(Documento)
+        {
+            // Função placeholder, não implementada no original
+            alert('Editar usuário ' + Documento);
+        }
+        
+    </script>
+    
+</body>
+</html>
