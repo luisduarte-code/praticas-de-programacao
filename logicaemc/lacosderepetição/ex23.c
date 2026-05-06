@@ -1,0 +1,13 @@
+#include <stdio.h>
+
+// Exemplo com while: imprimir de 1 a 10
+int main() {
+    int i = 1;
+
+    while (i <= 10) {
+        printf("%d\n", i);
+        i++;
+    }
+
+    return 0;
+}
