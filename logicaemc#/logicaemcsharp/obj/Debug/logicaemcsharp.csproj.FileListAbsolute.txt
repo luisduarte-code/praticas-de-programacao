@@ -1,0 +1,7 @@
+C:\GitHub\public\praticas-de-programacao\logicaemc#\logicaemcsharp\bin\Debug\logicaemcsharp.exe.config
+C:\GitHub\public\praticas-de-programacao\logicaemc#\logicaemcsharp\bin\Debug\logicaemcsharp.exe
+C:\GitHub\public\praticas-de-programacao\logicaemc#\logicaemcsharp\bin\Debug\logicaemcsharp.pdb
+C:\GitHub\public\praticas-de-programacao\logicaemc#\logicaemcsharp\obj\Debug\logicaemcsharp.csproj.AssemblyReference.cache
+C:\GitHub\public\praticas-de-programacao\logicaemc#\logicaemcsharp\obj\Debug\logicaemcsharp.csproj.CoreCompileInputs.cache
+C:\GitHub\public\praticas-de-programacao\logicaemc#\logicaemcsharp\obj\Debug\logicaemcsharp.exe
+C:\GitHub\public\praticas-de-programacao\logicaemc#\logicaemcsharp\obj\Debug\logicaemcsharp.pdb
