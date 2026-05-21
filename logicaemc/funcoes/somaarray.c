@@ -9,11 +9,11 @@ int main(){
 	return 0;
 }
 int somaArray(int array[], int tamanho){
-	int somaArray = 0;
+	int somaArrays = 0;
 	for(int i=0;i<tamanho;i++){
 		printf("Informe o %d numero:",i);
 		scanf("%d",&array[i]);
-		somaArray = somaArray + array[i];
+		somaArrays = somaArrays + array[i];
 	}
-	return somaArray;
+	return somaArrays;
 }
