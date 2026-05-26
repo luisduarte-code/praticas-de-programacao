@@ -1,0 +1,7 @@
+C:\GitHub\public\praticas-de-programacao\sintaxec#\inverternum\bin\Debug\inverternum.exe.config
+C:\GitHub\public\praticas-de-programacao\sintaxec#\inverternum\bin\Debug\inverternum.exe
+C:\GitHub\public\praticas-de-programacao\sintaxec#\inverternum\bin\Debug\inverternum.pdb
+C:\GitHub\public\praticas-de-programacao\sintaxec#\inverternum\obj\Debug\inverternum.csproj.AssemblyReference.cache
+C:\GitHub\public\praticas-de-programacao\sintaxec#\inverternum\obj\Debug\inverternum.csproj.CoreCompileInputs.cache
+C:\GitHub\public\praticas-de-programacao\sintaxec#\inverternum\obj\Debug\inverternum.exe
+C:\GitHub\public\praticas-de-programacao\sintaxec#\inverternum\obj\Debug\inverternum.pdb

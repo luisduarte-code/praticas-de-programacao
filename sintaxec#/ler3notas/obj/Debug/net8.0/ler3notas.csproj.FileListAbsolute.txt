@@ -1,0 +1,15 @@
+C:\GitHub\public\praticas-de-programacao\sintaxec#\ler3notas\bin\Debug\net8.0\ler3notas.exe
+C:\GitHub\public\praticas-de-programacao\sintaxec#\ler3notas\bin\Debug\net8.0\ler3notas.deps.json
+C:\GitHub\public\praticas-de-programacao\sintaxec#\ler3notas\bin\Debug\net8.0\ler3notas.runtimeconfig.json
+C:\GitHub\public\praticas-de-programacao\sintaxec#\ler3notas\bin\Debug\net8.0\ler3notas.dll
+C:\GitHub\public\praticas-de-programacao\sintaxec#\ler3notas\bin\Debug\net8.0\ler3notas.pdb
+C:\GitHub\public\praticas-de-programacao\sintaxec#\ler3notas\obj\Debug\net8.0\ler3notas.GeneratedMSBuildEditorConfig.editorconfig
+C:\GitHub\public\praticas-de-programacao\sintaxec#\ler3notas\obj\Debug\net8.0\ler3notas.AssemblyInfoInputs.cache
+C:\GitHub\public\praticas-de-programacao\sintaxec#\ler3notas\obj\Debug\net8.0\ler3notas.AssemblyInfo.cs
+C:\GitHub\public\praticas-de-programacao\sintaxec#\ler3notas\obj\Debug\net8.0\ler3notas.csproj.CoreCompileInputs.cache
+C:\GitHub\public\praticas-de-programacao\sintaxec#\ler3notas\obj\Debug\net8.0\ler3notas.sourcelink.json
+C:\GitHub\public\praticas-de-programacao\sintaxec#\ler3notas\obj\Debug\net8.0\ler3notas.dll
+C:\GitHub\public\praticas-de-programacao\sintaxec#\ler3notas\obj\Debug\net8.0\refint\ler3notas.dll
+C:\GitHub\public\praticas-de-programacao\sintaxec#\ler3notas\obj\Debug\net8.0\ler3notas.pdb
+C:\GitHub\public\praticas-de-programacao\sintaxec#\ler3notas\obj\Debug\net8.0\ler3notas.genruntimeconfig.cache
+C:\GitHub\public\praticas-de-programacao\sintaxec#\ler3notas\obj\Debug\net8.0\ref\ler3notas.dll

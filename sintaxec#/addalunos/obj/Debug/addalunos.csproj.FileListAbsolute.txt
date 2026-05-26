@@ -1,0 +1,7 @@
+C:\GitHub\public\praticas-de-programacao\sintaxec#\addalunos\bin\Debug\addalunos.exe.config
+C:\GitHub\public\praticas-de-programacao\sintaxec#\addalunos\bin\Debug\addalunos.exe
+C:\GitHub\public\praticas-de-programacao\sintaxec#\addalunos\bin\Debug\addalunos.pdb
+C:\GitHub\public\praticas-de-programacao\sintaxec#\addalunos\obj\Debug\addalunos.csproj.AssemblyReference.cache
+C:\GitHub\public\praticas-de-programacao\sintaxec#\addalunos\obj\Debug\addalunos.csproj.CoreCompileInputs.cache
+C:\GitHub\public\praticas-de-programacao\sintaxec#\addalunos\obj\Debug\addalunos.exe
+C:\GitHub\public\praticas-de-programacao\sintaxec#\addalunos\obj\Debug\addalunos.pdb
