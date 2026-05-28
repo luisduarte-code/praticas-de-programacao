@@ -1,0 +1,7 @@
+C:\GitHub\public\praticas-de-programacao\sintaxec#\somadematrizes\obj\Debug\somadematrizes.csproj.AssemblyReference.cache
+C:\GitHub\public\praticas-de-programacao\sintaxec#\somadematrizes\obj\Debug\somadematrizes.csproj.CoreCompileInputs.cache
+C:\GitHub\public\praticas-de-programacao\sintaxec#\somadematrizes\bin\Debug\somadematrizes.exe.config
+C:\GitHub\public\praticas-de-programacao\sintaxec#\somadematrizes\bin\Debug\somadematrizes.exe
+C:\GitHub\public\praticas-de-programacao\sintaxec#\somadematrizes\bin\Debug\somadematrizes.pdb
+C:\GitHub\public\praticas-de-programacao\sintaxec#\somadematrizes\obj\Debug\somadematrizes.exe
+C:\GitHub\public\praticas-de-programacao\sintaxec#\somadematrizes\obj\Debug\somadematrizes.pdb
