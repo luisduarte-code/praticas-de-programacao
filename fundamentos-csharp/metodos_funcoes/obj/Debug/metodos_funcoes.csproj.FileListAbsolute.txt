@@ -1,0 +1,7 @@
+C:\GitHub\public\praticas-de-programacao\sintaxec#\metodos_funcoes\bin\Debug\metodos_funcoes.exe.config
+C:\GitHub\public\praticas-de-programacao\sintaxec#\metodos_funcoes\bin\Debug\metodos_funcoes.exe
+C:\GitHub\public\praticas-de-programacao\sintaxec#\metodos_funcoes\bin\Debug\metodos_funcoes.pdb
+C:\GitHub\public\praticas-de-programacao\sintaxec#\metodos_funcoes\obj\Debug\metodos_funcoes.csproj.AssemblyReference.cache
+C:\GitHub\public\praticas-de-programacao\sintaxec#\metodos_funcoes\obj\Debug\metodos_funcoes.csproj.CoreCompileInputs.cache
+C:\GitHub\public\praticas-de-programacao\sintaxec#\metodos_funcoes\obj\Debug\metodos_funcoes.exe
+C:\GitHub\public\praticas-de-programacao\sintaxec#\metodos_funcoes\obj\Debug\metodos_funcoes.pdb

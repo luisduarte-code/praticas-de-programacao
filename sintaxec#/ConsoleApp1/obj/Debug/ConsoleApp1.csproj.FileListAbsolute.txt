@@ -1,7 +1,0 @@
-C:\GitHub\public\praticas-de-programacao\sintaxec#\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
-C:\GitHub\public\praticas-de-programacao\sintaxec#\ConsoleApp1\bin\Debug\ConsoleApp1.exe
-C:\GitHub\public\praticas-de-programacao\sintaxec#\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
-C:\GitHub\public\praticas-de-programacao\sintaxec#\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
-C:\GitHub\public\praticas-de-programacao\sintaxec#\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
-C:\GitHub\public\praticas-de-programacao\sintaxec#\ConsoleApp1\obj\Debug\ConsoleApp1.exe
-C:\GitHub\public\praticas-de-programacao\sintaxec#\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
