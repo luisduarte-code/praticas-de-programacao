@@ -1,0 +1,7 @@
+C:\GitHub\public\praticas-de-programacao\fundamentos-csharp\analisedenumeros\bin\Debug\analisedenumeros.exe.config
+C:\GitHub\public\praticas-de-programacao\fundamentos-csharp\analisedenumeros\bin\Debug\analisedenumeros.exe
+C:\GitHub\public\praticas-de-programacao\fundamentos-csharp\analisedenumeros\bin\Debug\analisedenumeros.pdb
+C:\GitHub\public\praticas-de-programacao\fundamentos-csharp\analisedenumeros\obj\Debug\analisedenumeros.csproj.AssemblyReference.cache
+C:\GitHub\public\praticas-de-programacao\fundamentos-csharp\analisedenumeros\obj\Debug\analisedenumeros.csproj.CoreCompileInputs.cache
+C:\GitHub\public\praticas-de-programacao\fundamentos-csharp\analisedenumeros\obj\Debug\analisedenumeros.exe
+C:\GitHub\public\praticas-de-programacao\fundamentos-csharp\analisedenumeros\obj\Debug\analisedenumeros.pdb
