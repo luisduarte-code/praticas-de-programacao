@@ -14,6 +14,7 @@ namespace analisedenumeros
             int maior = 0, menor = 0, countpar = 0, countimpar = 0, soma = 0;
             float media = 0;
             for (int i = 0; i < numeros.Length; i++)
+
             {
                 Console.WriteLine("Informe os numeros " +(i+1));
                 numeros[i] = Convert.ToInt32(Console.ReadLine());
@@ -45,44 +46,61 @@ namespace analisedenumeros
                     countimpar++;
                 }
             } //DESAFIO: mostrar os valores repetidos
-            for(int i = 0; i<numeros.Length; i++)
+            for (int i = 0; i < numeros.Length; i++)
             {
-                for (int j = 0; j < numeros.Length; j++)
+                for (int j = i + 1; j < numeros.Length; j++)
                 {
                     if (numeros[i] == numeros[j])
                     {
-                        Console.WriteLine("Valor repetido: " + numeros[i]);
+                        bool sabersejaapareceu = false;
+
+                        // verifica se esse número já apareceu antes
+                        for (int z = 0; z < i; z++)
+                        {
+                            if (numeros[i] == numeros[z])
+                            {
+                                sabersejaapareceu = true;
+                            }
+                        }
+
+                        // só imprime se ainda não apareceu antes
+                        if (sabersejaapareceu == false)
+                        {
+                            Console.WriteLine("Os valores repetidos são: " + numeros[i]);
+                        }
                     }
                 }
             }
-            media = soma/50f;
-            Console.WriteLine("O maior"+maior);
-            Console.WriteLine("O menor"+menor);
-            Console.WriteLine("Qtd pares"+countpar);
-            Console.WriteLine("Qtd impares"+countimpar);
-            Console.WriteLine("Media = "+media);
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+            media = soma / 50f;
+            Console.WriteLine("O maior" + maior);
+            Console.WriteLine("O menor" + menor);
+            Console.WriteLine("Qtd pares" + countpar);
+            Console.WriteLine("Qtd impares" + countimpar);
+            Console.WriteLine("Media = " + media);
         }
+           
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
     }
-}
+ }
+

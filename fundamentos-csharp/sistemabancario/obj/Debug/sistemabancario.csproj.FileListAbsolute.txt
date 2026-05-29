@@ -1,0 +1,7 @@
+C:\GitHub\public\praticas-de-programacao\fundamentos-csharp\sistemabancario\bin\Debug\sistemabancario.exe.config
+C:\GitHub\public\praticas-de-programacao\fundamentos-csharp\sistemabancario\bin\Debug\sistemabancario.exe
+C:\GitHub\public\praticas-de-programacao\fundamentos-csharp\sistemabancario\bin\Debug\sistemabancario.pdb
+C:\GitHub\public\praticas-de-programacao\fundamentos-csharp\sistemabancario\obj\Debug\sistemabancario.csproj.AssemblyReference.cache
+C:\GitHub\public\praticas-de-programacao\fundamentos-csharp\sistemabancario\obj\Debug\sistemabancario.csproj.CoreCompileInputs.cache
+C:\GitHub\public\praticas-de-programacao\fundamentos-csharp\sistemabancario\obj\Debug\sistemabancario.exe
+C:\GitHub\public\praticas-de-programacao\fundamentos-csharp\sistemabancario\obj\Debug\sistemabancario.pdb
