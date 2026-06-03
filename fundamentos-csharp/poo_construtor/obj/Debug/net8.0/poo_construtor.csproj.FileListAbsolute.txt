@@ -1,0 +1,15 @@
+C:\GitHub\public\praticas-de-programacao\fundamentos-csharp\poo_construtor\bin\Debug\net8.0\poo_construtor.exe
+C:\GitHub\public\praticas-de-programacao\fundamentos-csharp\poo_construtor\bin\Debug\net8.0\poo_construtor.deps.json
+C:\GitHub\public\praticas-de-programacao\fundamentos-csharp\poo_construtor\bin\Debug\net8.0\poo_construtor.runtimeconfig.json
+C:\GitHub\public\praticas-de-programacao\fundamentos-csharp\poo_construtor\bin\Debug\net8.0\poo_construtor.dll
+C:\GitHub\public\praticas-de-programacao\fundamentos-csharp\poo_construtor\bin\Debug\net8.0\poo_construtor.pdb
+C:\GitHub\public\praticas-de-programacao\fundamentos-csharp\poo_construtor\obj\Debug\net8.0\poo_construtor.GeneratedMSBuildEditorConfig.editorconfig
+C:\GitHub\public\praticas-de-programacao\fundamentos-csharp\poo_construtor\obj\Debug\net8.0\poo_construtor.AssemblyInfoInputs.cache
+C:\GitHub\public\praticas-de-programacao\fundamentos-csharp\poo_construtor\obj\Debug\net8.0\poo_construtor.AssemblyInfo.cs
+C:\GitHub\public\praticas-de-programacao\fundamentos-csharp\poo_construtor\obj\Debug\net8.0\poo_construtor.csproj.CoreCompileInputs.cache
+C:\GitHub\public\praticas-de-programacao\fundamentos-csharp\poo_construtor\obj\Debug\net8.0\poo_construtor.sourcelink.json
+C:\GitHub\public\praticas-de-programacao\fundamentos-csharp\poo_construtor\obj\Debug\net8.0\poo_construtor.dll
+C:\GitHub\public\praticas-de-programacao\fundamentos-csharp\poo_construtor\obj\Debug\net8.0\refint\poo_construtor.dll
+C:\GitHub\public\praticas-de-programacao\fundamentos-csharp\poo_construtor\obj\Debug\net8.0\poo_construtor.pdb
+C:\GitHub\public\praticas-de-programacao\fundamentos-csharp\poo_construtor\obj\Debug\net8.0\poo_construtor.genruntimeconfig.cache
+C:\GitHub\public\praticas-de-programacao\fundamentos-csharp\poo_construtor\obj\Debug\net8.0\ref\poo_construtor.dll

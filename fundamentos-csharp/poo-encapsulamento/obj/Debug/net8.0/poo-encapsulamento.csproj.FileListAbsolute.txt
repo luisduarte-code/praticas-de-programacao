@@ -1,0 +1,15 @@
+C:\GitHub\public\praticas-de-programacao\fundamentos-csharp\poo-encapsulamento\bin\Debug\net8.0\poo-encapsulamento.exe
+C:\GitHub\public\praticas-de-programacao\fundamentos-csharp\poo-encapsulamento\bin\Debug\net8.0\poo-encapsulamento.deps.json
+C:\GitHub\public\praticas-de-programacao\fundamentos-csharp\poo-encapsulamento\bin\Debug\net8.0\poo-encapsulamento.runtimeconfig.json
+C:\GitHub\public\praticas-de-programacao\fundamentos-csharp\poo-encapsulamento\bin\Debug\net8.0\poo-encapsulamento.dll
+C:\GitHub\public\praticas-de-programacao\fundamentos-csharp\poo-encapsulamento\bin\Debug\net8.0\poo-encapsulamento.pdb
+C:\GitHub\public\praticas-de-programacao\fundamentos-csharp\poo-encapsulamento\obj\Debug\net8.0\poo-encapsulamento.GeneratedMSBuildEditorConfig.editorconfig
+C:\GitHub\public\praticas-de-programacao\fundamentos-csharp\poo-encapsulamento\obj\Debug\net8.0\poo-encapsulamento.AssemblyInfoInputs.cache
+C:\GitHub\public\praticas-de-programacao\fundamentos-csharp\poo-encapsulamento\obj\Debug\net8.0\poo-encapsulamento.AssemblyInfo.cs
+C:\GitHub\public\praticas-de-programacao\fundamentos-csharp\poo-encapsulamento\obj\Debug\net8.0\poo-encapsulamento.csproj.CoreCompileInputs.cache
+C:\GitHub\public\praticas-de-programacao\fundamentos-csharp\poo-encapsulamento\obj\Debug\net8.0\poo-encapsulamento.sourcelink.json
+C:\GitHub\public\praticas-de-programacao\fundamentos-csharp\poo-encapsulamento\obj\Debug\net8.0\poo-encapsulamento.dll
+C:\GitHub\public\praticas-de-programacao\fundamentos-csharp\poo-encapsulamento\obj\Debug\net8.0\refint\poo-encapsulamento.dll
+C:\GitHub\public\praticas-de-programacao\fundamentos-csharp\poo-encapsulamento\obj\Debug\net8.0\poo-encapsulamento.pdb
+C:\GitHub\public\praticas-de-programacao\fundamentos-csharp\poo-encapsulamento\obj\Debug\net8.0\poo-encapsulamento.genruntimeconfig.cache
+C:\GitHub\public\praticas-de-programacao\fundamentos-csharp\poo-encapsulamento\obj\Debug\net8.0\ref\poo-encapsulamento.dll

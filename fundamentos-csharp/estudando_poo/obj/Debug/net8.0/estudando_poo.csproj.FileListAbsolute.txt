@@ -1,0 +1,15 @@
+C:\GitHub\public\praticas-de-programacao\fundamentos-csharp\estudando_poo\bin\Debug\net8.0\estudando_poo.exe
+C:\GitHub\public\praticas-de-programacao\fundamentos-csharp\estudando_poo\bin\Debug\net8.0\estudando_poo.deps.json
+C:\GitHub\public\praticas-de-programacao\fundamentos-csharp\estudando_poo\bin\Debug\net8.0\estudando_poo.runtimeconfig.json
+C:\GitHub\public\praticas-de-programacao\fundamentos-csharp\estudando_poo\bin\Debug\net8.0\estudando_poo.dll
+C:\GitHub\public\praticas-de-programacao\fundamentos-csharp\estudando_poo\bin\Debug\net8.0\estudando_poo.pdb
+C:\GitHub\public\praticas-de-programacao\fundamentos-csharp\estudando_poo\obj\Debug\net8.0\estudando_poo.GeneratedMSBuildEditorConfig.editorconfig
+C:\GitHub\public\praticas-de-programacao\fundamentos-csharp\estudando_poo\obj\Debug\net8.0\estudando_poo.AssemblyInfoInputs.cache
+C:\GitHub\public\praticas-de-programacao\fundamentos-csharp\estudando_poo\obj\Debug\net8.0\estudando_poo.AssemblyInfo.cs
+C:\GitHub\public\praticas-de-programacao\fundamentos-csharp\estudando_poo\obj\Debug\net8.0\estudando_poo.csproj.CoreCompileInputs.cache
+C:\GitHub\public\praticas-de-programacao\fundamentos-csharp\estudando_poo\obj\Debug\net8.0\estudando_poo.sourcelink.json
+C:\GitHub\public\praticas-de-programacao\fundamentos-csharp\estudando_poo\obj\Debug\net8.0\estudando_poo.dll
+C:\GitHub\public\praticas-de-programacao\fundamentos-csharp\estudando_poo\obj\Debug\net8.0\refint\estudando_poo.dll
+C:\GitHub\public\praticas-de-programacao\fundamentos-csharp\estudando_poo\obj\Debug\net8.0\estudando_poo.pdb
+C:\GitHub\public\praticas-de-programacao\fundamentos-csharp\estudando_poo\obj\Debug\net8.0\estudando_poo.genruntimeconfig.cache
+C:\GitHub\public\praticas-de-programacao\fundamentos-csharp\estudando_poo\obj\Debug\net8.0\ref\estudando_poo.dll

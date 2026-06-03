@@ -1,0 +1,121 @@
+/*Aqui é para controlar o posicionamento dos elementos*/
+.container {
+    display: grid;
+    min-height: 100vh;
+
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: auto auto auto 1fr auto;
+
+    gap: 15px;
+    padding: 15px;
+
+    grid-template-areas:
+        "header header"
+        "sobre habilidades"
+        "formacao experiencia"
+        "projetos projetos"
+        "contato contato"
+        "footer footer";
+        max-width: 1200px;
+        margin: auto;
+}
+
+.header {grid-area:header;}
+.sobre {grid-area:sobre;}
+.habilidades {grid-area:habilidades;}
+.formacao {grid-area:formacao;}
+.experiencia {grid-area:experiencia;}
+.projetos {grid-area:projetos;}
+.contato {grid-area:contato}
+.footer {grid-area:footer;}
+/**/
+
+/*Pra ver eles melhor
+.header,.sobre,.habilidades,.formacao,.experiencia,.projetos,.footer {
+    border: 2px solid black;
+    padding: 20px;
+}*/
+/*para deixar os blocos como se fossem cards*/
+section{
+    background: white;
+    padding: 20px;
+    margin: 15px 0;
+    border-radius: 10px;
+    box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+}
+/*Mudar a fonte*/
+body{
+    background-color: #f5f7fa;
+    font-family: Arial, sans-serif;
+}
+/*Mudar a cor do cabeçalho*/
+.header{
+    display: grid;
+    grid-template-columns: 200px 1fr;
+    align-items: center;
+    background-color: #1e293b;
+    color: white;
+    padding: 30px;
+    border-radius: 10px;
+}
+/*Arrumando os links de contato*/
+a{
+    text-decoration:none;
+    color:#2563eb;
+}
+
+a:hover{
+    color:#1d4ed8;
+}
+/*Arrumando o link do repositorio*/
+.projetos a{
+    display:inline-block;
+    background:#2563eb;
+    color:white;
+    padding:10px 20px;
+    border-radius:8px;
+    margin-bottom:10px;
+}
+/*ajustar o tamanho da foto e +*/
+.foto{
+    width: 170px;
+    height: 170px;
+    border-radius: 50%;
+    object-fit: cover;
+}
+/*melhor a leitura da experiencia*/
+.experiencia li{
+    margin-bottom: 15px;
+    line-height: 1.6;
+}
+/*organizar a galeria dos repositorios*/
+.galeria{
+    display:grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap:15px;
+    
+}
+/*fonte do cabeçalho*/
+.header h1{
+    font-size:2.2rem;
+    padding: 20px;
+}
+/*estilo dos repositorios */
+.repositorios{
+    background:#f8fafc;
+    border:1px solid #dbe4ee;
+    border-radius:10px;
+    padding:20px;
+    text-align:center;
+    box-shadow:0 2px 5px rgba(0,0,0,0.1);
+}
+/*margem do espaço do contato*/
+.contato p{
+    margin-bottom:  10px;
+}
+/* nota do rodapé*/
+.footer{
+    text-align:center;
+    color:#635e5e;
+    padding:20px;
+}

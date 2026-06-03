@@ -1,0 +1,15 @@
+C:\GitHub\public\praticas-de-programacao\fundamentos-csharp\atributos_e_metodosestaticos\bin\Debug\net8.0\atributos_e_metodosestaticos.exe
+C:\GitHub\public\praticas-de-programacao\fundamentos-csharp\atributos_e_metodosestaticos\bin\Debug\net8.0\atributos_e_metodosestaticos.deps.json
+C:\GitHub\public\praticas-de-programacao\fundamentos-csharp\atributos_e_metodosestaticos\bin\Debug\net8.0\atributos_e_metodosestaticos.runtimeconfig.json
+C:\GitHub\public\praticas-de-programacao\fundamentos-csharp\atributos_e_metodosestaticos\bin\Debug\net8.0\atributos_e_metodosestaticos.dll
+C:\GitHub\public\praticas-de-programacao\fundamentos-csharp\atributos_e_metodosestaticos\bin\Debug\net8.0\atributos_e_metodosestaticos.pdb
+C:\GitHub\public\praticas-de-programacao\fundamentos-csharp\atributos_e_metodosestaticos\obj\Debug\net8.0\atributos_e_metodosestaticos.GeneratedMSBuildEditorConfig.editorconfig
+C:\GitHub\public\praticas-de-programacao\fundamentos-csharp\atributos_e_metodosestaticos\obj\Debug\net8.0\atributos_e_metodosestaticos.AssemblyInfoInputs.cache
+C:\GitHub\public\praticas-de-programacao\fundamentos-csharp\atributos_e_metodosestaticos\obj\Debug\net8.0\atributos_e_metodosestaticos.AssemblyInfo.cs
+C:\GitHub\public\praticas-de-programacao\fundamentos-csharp\atributos_e_metodosestaticos\obj\Debug\net8.0\atributos_e_metodosestaticos.csproj.CoreCompileInputs.cache
+C:\GitHub\public\praticas-de-programacao\fundamentos-csharp\atributos_e_metodosestaticos\obj\Debug\net8.0\atributos_e_metodosestaticos.sourcelink.json
+C:\GitHub\public\praticas-de-programacao\fundamentos-csharp\atributos_e_metodosestaticos\obj\Debug\net8.0\atributos_e_metodosestaticos.dll
+C:\GitHub\public\praticas-de-programacao\fundamentos-csharp\atributos_e_metodosestaticos\obj\Debug\net8.0\refint\atributos_e_metodosestaticos.dll
+C:\GitHub\public\praticas-de-programacao\fundamentos-csharp\atributos_e_metodosestaticos\obj\Debug\net8.0\atributos_e_metodosestaticos.pdb
+C:\GitHub\public\praticas-de-programacao\fundamentos-csharp\atributos_e_metodosestaticos\obj\Debug\net8.0\atributos_e_metodosestaticos.genruntimeconfig.cache
+C:\GitHub\public\praticas-de-programacao\fundamentos-csharp\atributos_e_metodosestaticos\obj\Debug\net8.0\ref\atributos_e_metodosestaticos.dll

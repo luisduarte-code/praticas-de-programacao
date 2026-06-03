@@ -1,0 +1,18 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+ class Calculadora()
+{
+    //atributo numérico
+    public static int numero = 10;
+
+
+    //metodo para somar dois valores
+    public static void Soma(int n1,int n2)
+        {
+        Console.WriteLine($"A soma dos valores é {n1+n2}");
+        }
+}
