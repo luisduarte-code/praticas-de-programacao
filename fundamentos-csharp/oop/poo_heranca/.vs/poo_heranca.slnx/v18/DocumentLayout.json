@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\GitHub\\public\\praticas-de-programacao\\fundamentos-csharp\\poo_heranca\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{71F0F949-F896-AD6E-0404-3A88DEA1BC11}|poo_heranca.csproj|c:\\github\\public\\praticas-de-programacao\\fundamentos-csharp\\poo_heranca\\pessoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71F0F949-F896-AD6E-0404-3A88DEA1BC11}|poo_heranca.csproj|solutionrelative:pessoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71F0F949-F896-AD6E-0404-3A88DEA1BC11}|poo_heranca.csproj|c:\\github\\public\\praticas-de-programacao\\fundamentos-csharp\\poo_heranca\\colaborador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71F0F949-F896-AD6E-0404-3A88DEA1BC11}|poo_heranca.csproj|solutionrelative:colaborador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71F0F949-F896-AD6E-0404-3A88DEA1BC11}|poo_heranca.csproj|c:\\github\\public\\praticas-de-programacao\\fundamentos-csharp\\poo_heranca\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71F0F949-F896-AD6E-0404-3A88DEA1BC11}|poo_heranca.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Colaborador.cs",
+              "DocumentMoniker": "C:\\GitHub\\public\\praticas-de-programacao\\fundamentos-csharp\\poo_heranca\\Colaborador.cs",
+              "RelativeDocumentMoniker": "Colaborador.cs",
+              "ToolTip": "C:\\GitHub\\public\\praticas-de-programacao\\fundamentos-csharp\\poo_heranca\\Colaborador.cs",
+              "RelativeToolTip": "Colaborador.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-02T18:26:52.478Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Pessoa.cs",
+              "DocumentMoniker": "C:\\GitHub\\public\\praticas-de-programacao\\fundamentos-csharp\\poo_heranca\\Pessoa.cs",
+              "RelativeDocumentMoniker": "Pessoa.cs",
+              "ToolTip": "C:\\GitHub\\public\\praticas-de-programacao\\fundamentos-csharp\\poo_heranca\\Pessoa.cs",
+              "RelativeToolTip": "Pessoa.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-02T18:26:14.11Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\GitHub\\public\\praticas-de-programacao\\fundamentos-csharp\\poo_heranca\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\GitHub\\public\\praticas-de-programacao\\fundamentos-csharp\\poo_heranca\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-02T18:26:04.126Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

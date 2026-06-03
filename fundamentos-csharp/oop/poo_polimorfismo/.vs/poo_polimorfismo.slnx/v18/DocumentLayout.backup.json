@@ -1,0 +1,93 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\GitHub\\public\\praticas-de-programacao\\fundamentos-csharp\\poo_polimorfismo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{812F6F95-B309-448C-8802-69E0BEF95867}|poo_polimorfismo.csproj|c:\\github\\public\\praticas-de-programacao\\fundamentos-csharp\\poo_polimorfismo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{812F6F95-B309-448C-8802-69E0BEF95867}|poo_polimorfismo.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{812F6F95-B309-448C-8802-69E0BEF95867}|poo_polimorfismo.csproj|c:\\github\\public\\praticas-de-programacao\\fundamentos-csharp\\poo_polimorfismo\\cachorro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{812F6F95-B309-448C-8802-69E0BEF95867}|poo_polimorfismo.csproj|solutionrelative:cachorro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{812F6F95-B309-448C-8802-69E0BEF95867}|poo_polimorfismo.csproj|c:\\github\\public\\praticas-de-programacao\\fundamentos-csharp\\poo_polimorfismo\\gato.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{812F6F95-B309-448C-8802-69E0BEF95867}|poo_polimorfismo.csproj|solutionrelative:gato.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{812F6F95-B309-448C-8802-69E0BEF95867}|poo_polimorfismo.csproj|c:\\github\\public\\praticas-de-programacao\\fundamentos-csharp\\poo_polimorfismo\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{812F6F95-B309-448C-8802-69E0BEF95867}|poo_polimorfismo.csproj|solutionrelative:animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Animal.cs",
+              "DocumentMoniker": "C:\\GitHub\\public\\praticas-de-programacao\\fundamentos-csharp\\poo_polimorfismo\\Animal.cs",
+              "RelativeDocumentMoniker": "Animal.cs",
+              "ToolTip": "C:\\GitHub\\public\\praticas-de-programacao\\fundamentos-csharp\\poo_polimorfismo\\Animal.cs*",
+              "RelativeToolTip": "Animal.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-03T14:00:38.757Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Cachorro.cs",
+              "DocumentMoniker": "C:\\GitHub\\public\\praticas-de-programacao\\fundamentos-csharp\\poo_polimorfismo\\Cachorro.cs",
+              "RelativeDocumentMoniker": "Cachorro.cs",
+              "ToolTip": "C:\\GitHub\\public\\praticas-de-programacao\\fundamentos-csharp\\poo_polimorfismo\\Cachorro.cs*",
+              "RelativeToolTip": "Cachorro.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-03T14:00:48.966Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Gato.cs",
+              "DocumentMoniker": "C:\\GitHub\\public\\praticas-de-programacao\\fundamentos-csharp\\poo_polimorfismo\\Gato.cs",
+              "RelativeDocumentMoniker": "Gato.cs",
+              "ToolTip": "C:\\GitHub\\public\\praticas-de-programacao\\fundamentos-csharp\\poo_polimorfismo\\Gato.cs*",
+              "RelativeToolTip": "Gato.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-03T14:00:55.296Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\GitHub\\public\\praticas-de-programacao\\fundamentos-csharp\\poo_polimorfismo\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\GitHub\\public\\praticas-de-programacao\\fundamentos-csharp\\poo_polimorfismo\\Program.cs*",
+              "RelativeToolTip": "Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-03T13:59:58.208Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

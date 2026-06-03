@@ -1,0 +1,15 @@
+C:\GitHub\public\praticas-de-programacao\fundamentos-csharp\poo_heranca\bin\Debug\net8.0\poo_heranca.exe
+C:\GitHub\public\praticas-de-programacao\fundamentos-csharp\poo_heranca\bin\Debug\net8.0\poo_heranca.deps.json
+C:\GitHub\public\praticas-de-programacao\fundamentos-csharp\poo_heranca\bin\Debug\net8.0\poo_heranca.runtimeconfig.json
+C:\GitHub\public\praticas-de-programacao\fundamentos-csharp\poo_heranca\bin\Debug\net8.0\poo_heranca.dll
+C:\GitHub\public\praticas-de-programacao\fundamentos-csharp\poo_heranca\bin\Debug\net8.0\poo_heranca.pdb
+C:\GitHub\public\praticas-de-programacao\fundamentos-csharp\poo_heranca\obj\Debug\net8.0\poo_heranca.GeneratedMSBuildEditorConfig.editorconfig
+C:\GitHub\public\praticas-de-programacao\fundamentos-csharp\poo_heranca\obj\Debug\net8.0\poo_heranca.AssemblyInfoInputs.cache
+C:\GitHub\public\praticas-de-programacao\fundamentos-csharp\poo_heranca\obj\Debug\net8.0\poo_heranca.AssemblyInfo.cs
+C:\GitHub\public\praticas-de-programacao\fundamentos-csharp\poo_heranca\obj\Debug\net8.0\poo_heranca.csproj.CoreCompileInputs.cache
+C:\GitHub\public\praticas-de-programacao\fundamentos-csharp\poo_heranca\obj\Debug\net8.0\poo_heranca.sourcelink.json
+C:\GitHub\public\praticas-de-programacao\fundamentos-csharp\poo_heranca\obj\Debug\net8.0\poo_heranca.dll
+C:\GitHub\public\praticas-de-programacao\fundamentos-csharp\poo_heranca\obj\Debug\net8.0\refint\poo_heranca.dll
+C:\GitHub\public\praticas-de-programacao\fundamentos-csharp\poo_heranca\obj\Debug\net8.0\poo_heranca.pdb
+C:\GitHub\public\praticas-de-programacao\fundamentos-csharp\poo_heranca\obj\Debug\net8.0\poo_heranca.genruntimeconfig.cache
+C:\GitHub\public\praticas-de-programacao\fundamentos-csharp\poo_heranca\obj\Debug\net8.0\ref\poo_heranca.dll

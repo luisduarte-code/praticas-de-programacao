@@ -1,0 +1,15 @@
+C:\GitHub\public\praticas-de-programacao\fundamentos-csharp\poo_polimorfismo\bin\Debug\net8.0\poo_polimorfismo.exe
+C:\GitHub\public\praticas-de-programacao\fundamentos-csharp\poo_polimorfismo\bin\Debug\net8.0\poo_polimorfismo.deps.json
+C:\GitHub\public\praticas-de-programacao\fundamentos-csharp\poo_polimorfismo\bin\Debug\net8.0\poo_polimorfismo.runtimeconfig.json
+C:\GitHub\public\praticas-de-programacao\fundamentos-csharp\poo_polimorfismo\bin\Debug\net8.0\poo_polimorfismo.dll
+C:\GitHub\public\praticas-de-programacao\fundamentos-csharp\poo_polimorfismo\bin\Debug\net8.0\poo_polimorfismo.pdb
+C:\GitHub\public\praticas-de-programacao\fundamentos-csharp\poo_polimorfismo\obj\Debug\net8.0\poo_polimorfismo.GeneratedMSBuildEditorConfig.editorconfig
+C:\GitHub\public\praticas-de-programacao\fundamentos-csharp\poo_polimorfismo\obj\Debug\net8.0\poo_polimorfismo.AssemblyInfoInputs.cache
+C:\GitHub\public\praticas-de-programacao\fundamentos-csharp\poo_polimorfismo\obj\Debug\net8.0\poo_polimorfismo.AssemblyInfo.cs
+C:\GitHub\public\praticas-de-programacao\fundamentos-csharp\poo_polimorfismo\obj\Debug\net8.0\poo_polimorfismo.csproj.CoreCompileInputs.cache
+C:\GitHub\public\praticas-de-programacao\fundamentos-csharp\poo_polimorfismo\obj\Debug\net8.0\poo_polimorfismo.sourcelink.json
+C:\GitHub\public\praticas-de-programacao\fundamentos-csharp\poo_polimorfismo\obj\Debug\net8.0\poo_polimorfismo.dll
+C:\GitHub\public\praticas-de-programacao\fundamentos-csharp\poo_polimorfismo\obj\Debug\net8.0\refint\poo_polimorfismo.dll
+C:\GitHub\public\praticas-de-programacao\fundamentos-csharp\poo_polimorfismo\obj\Debug\net8.0\poo_polimorfismo.pdb
+C:\GitHub\public\praticas-de-programacao\fundamentos-csharp\poo_polimorfismo\obj\Debug\net8.0\poo_polimorfismo.genruntimeconfig.cache
+C:\GitHub\public\praticas-de-programacao\fundamentos-csharp\poo_polimorfismo\obj\Debug\net8.0\ref\poo_polimorfismo.dll
