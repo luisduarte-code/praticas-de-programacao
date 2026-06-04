@@ -1,0 +1,15 @@
+C:\GitHub\public\praticas-de-programacao\fundamentos-csharp\Pessoa\bin\Debug\net8.0\Pessoa.exe
+C:\GitHub\public\praticas-de-programacao\fundamentos-csharp\Pessoa\bin\Debug\net8.0\Pessoa.deps.json
+C:\GitHub\public\praticas-de-programacao\fundamentos-csharp\Pessoa\bin\Debug\net8.0\Pessoa.runtimeconfig.json
+C:\GitHub\public\praticas-de-programacao\fundamentos-csharp\Pessoa\bin\Debug\net8.0\Pessoa.dll
+C:\GitHub\public\praticas-de-programacao\fundamentos-csharp\Pessoa\bin\Debug\net8.0\Pessoa.pdb
+C:\GitHub\public\praticas-de-programacao\fundamentos-csharp\Pessoa\obj\Debug\net8.0\Pessoa.GeneratedMSBuildEditorConfig.editorconfig
+C:\GitHub\public\praticas-de-programacao\fundamentos-csharp\Pessoa\obj\Debug\net8.0\Pessoa.AssemblyInfoInputs.cache
+C:\GitHub\public\praticas-de-programacao\fundamentos-csharp\Pessoa\obj\Debug\net8.0\Pessoa.AssemblyInfo.cs
+C:\GitHub\public\praticas-de-programacao\fundamentos-csharp\Pessoa\obj\Debug\net8.0\Pessoa.csproj.CoreCompileInputs.cache
+C:\GitHub\public\praticas-de-programacao\fundamentos-csharp\Pessoa\obj\Debug\net8.0\Pessoa.sourcelink.json
+C:\GitHub\public\praticas-de-programacao\fundamentos-csharp\Pessoa\obj\Debug\net8.0\Pessoa.dll
+C:\GitHub\public\praticas-de-programacao\fundamentos-csharp\Pessoa\obj\Debug\net8.0\refint\Pessoa.dll
+C:\GitHub\public\praticas-de-programacao\fundamentos-csharp\Pessoa\obj\Debug\net8.0\Pessoa.pdb
+C:\GitHub\public\praticas-de-programacao\fundamentos-csharp\Pessoa\obj\Debug\net8.0\Pessoa.genruntimeconfig.cache
+C:\GitHub\public\praticas-de-programacao\fundamentos-csharp\Pessoa\obj\Debug\net8.0\ref\Pessoa.dll

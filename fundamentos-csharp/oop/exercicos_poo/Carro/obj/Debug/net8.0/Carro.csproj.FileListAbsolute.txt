@@ -1,0 +1,15 @@
+C:\GitHub\public\praticas-de-programacao\fundamentos-csharp\oop\exercicos_poo\Carro\bin\Debug\net8.0\Carro.exe
+C:\GitHub\public\praticas-de-programacao\fundamentos-csharp\oop\exercicos_poo\Carro\bin\Debug\net8.0\Carro.deps.json
+C:\GitHub\public\praticas-de-programacao\fundamentos-csharp\oop\exercicos_poo\Carro\bin\Debug\net8.0\Carro.runtimeconfig.json
+C:\GitHub\public\praticas-de-programacao\fundamentos-csharp\oop\exercicos_poo\Carro\bin\Debug\net8.0\Carro.dll
+C:\GitHub\public\praticas-de-programacao\fundamentos-csharp\oop\exercicos_poo\Carro\bin\Debug\net8.0\Carro.pdb
+C:\GitHub\public\praticas-de-programacao\fundamentos-csharp\oop\exercicos_poo\Carro\obj\Debug\net8.0\Carro.GeneratedMSBuildEditorConfig.editorconfig
+C:\GitHub\public\praticas-de-programacao\fundamentos-csharp\oop\exercicos_poo\Carro\obj\Debug\net8.0\Carro.AssemblyInfoInputs.cache
+C:\GitHub\public\praticas-de-programacao\fundamentos-csharp\oop\exercicos_poo\Carro\obj\Debug\net8.0\Carro.AssemblyInfo.cs
+C:\GitHub\public\praticas-de-programacao\fundamentos-csharp\oop\exercicos_poo\Carro\obj\Debug\net8.0\Carro.csproj.CoreCompileInputs.cache
+C:\GitHub\public\praticas-de-programacao\fundamentos-csharp\oop\exercicos_poo\Carro\obj\Debug\net8.0\Carro.sourcelink.json
+C:\GitHub\public\praticas-de-programacao\fundamentos-csharp\oop\exercicos_poo\Carro\obj\Debug\net8.0\Carro.dll
+C:\GitHub\public\praticas-de-programacao\fundamentos-csharp\oop\exercicos_poo\Carro\obj\Debug\net8.0\refint\Carro.dll
+C:\GitHub\public\praticas-de-programacao\fundamentos-csharp\oop\exercicos_poo\Carro\obj\Debug\net8.0\Carro.pdb
+C:\GitHub\public\praticas-de-programacao\fundamentos-csharp\oop\exercicos_poo\Carro\obj\Debug\net8.0\Carro.genruntimeconfig.cache
+C:\GitHub\public\praticas-de-programacao\fundamentos-csharp\oop\exercicos_poo\Carro\obj\Debug\net8.0\ref\Carro.dll

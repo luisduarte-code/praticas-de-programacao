@@ -1,0 +1,15 @@
+﻿ContaBancaria c1 = new ContaBancaria();
+Console.WriteLine("Informe o nome do titular da conta: ");
+c1.Titular = Console.ReadLine();
+
+
+Console.WriteLine("1 - Depositar");
+Console.WriteLine("2 - Sacar");
+Console.WriteLine("3 - Mostrar Saldo");
+int option = Convert.ToInt32(Console.ReadLine());
+
+switch (option)
+{
+    case 1:
+        c1.Depositar();
+}

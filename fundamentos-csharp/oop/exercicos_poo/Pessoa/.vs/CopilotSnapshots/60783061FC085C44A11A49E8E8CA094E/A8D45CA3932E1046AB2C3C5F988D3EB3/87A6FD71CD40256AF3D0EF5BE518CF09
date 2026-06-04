@@ -1,0 +1,5 @@
+﻿Pessoa obj1 = new Pessoa();
+obj1.Nome = "Luis";
+obj1.Idade = 18;
+obj1.Apresentar();
+obj1.VerificarIdade();

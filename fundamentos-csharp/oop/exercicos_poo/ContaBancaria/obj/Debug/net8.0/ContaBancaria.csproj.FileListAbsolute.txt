@@ -1,0 +1,15 @@
+C:\GitHub\public\praticas-de-programacao\fundamentos-csharp\oop\exercicos_poo\ContaBancaria\bin\Debug\net8.0\ContaBancaria.exe
+C:\GitHub\public\praticas-de-programacao\fundamentos-csharp\oop\exercicos_poo\ContaBancaria\bin\Debug\net8.0\ContaBancaria.deps.json
+C:\GitHub\public\praticas-de-programacao\fundamentos-csharp\oop\exercicos_poo\ContaBancaria\bin\Debug\net8.0\ContaBancaria.runtimeconfig.json
+C:\GitHub\public\praticas-de-programacao\fundamentos-csharp\oop\exercicos_poo\ContaBancaria\bin\Debug\net8.0\ContaBancaria.dll
+C:\GitHub\public\praticas-de-programacao\fundamentos-csharp\oop\exercicos_poo\ContaBancaria\bin\Debug\net8.0\ContaBancaria.pdb
+C:\GitHub\public\praticas-de-programacao\fundamentos-csharp\oop\exercicos_poo\ContaBancaria\obj\Debug\net8.0\ContaBancaria.GeneratedMSBuildEditorConfig.editorconfig
+C:\GitHub\public\praticas-de-programacao\fundamentos-csharp\oop\exercicos_poo\ContaBancaria\obj\Debug\net8.0\ContaBancaria.AssemblyInfoInputs.cache
+C:\GitHub\public\praticas-de-programacao\fundamentos-csharp\oop\exercicos_poo\ContaBancaria\obj\Debug\net8.0\ContaBancaria.AssemblyInfo.cs
+C:\GitHub\public\praticas-de-programacao\fundamentos-csharp\oop\exercicos_poo\ContaBancaria\obj\Debug\net8.0\ContaBancaria.csproj.CoreCompileInputs.cache
+C:\GitHub\public\praticas-de-programacao\fundamentos-csharp\oop\exercicos_poo\ContaBancaria\obj\Debug\net8.0\ContaBancaria.sourcelink.json
+C:\GitHub\public\praticas-de-programacao\fundamentos-csharp\oop\exercicos_poo\ContaBancaria\obj\Debug\net8.0\ContaBancaria.dll
+C:\GitHub\public\praticas-de-programacao\fundamentos-csharp\oop\exercicos_poo\ContaBancaria\obj\Debug\net8.0\refint\ContaBancaria.dll
+C:\GitHub\public\praticas-de-programacao\fundamentos-csharp\oop\exercicos_poo\ContaBancaria\obj\Debug\net8.0\ContaBancaria.pdb
+C:\GitHub\public\praticas-de-programacao\fundamentos-csharp\oop\exercicos_poo\ContaBancaria\obj\Debug\net8.0\ContaBancaria.genruntimeconfig.cache
+C:\GitHub\public\praticas-de-programacao\fundamentos-csharp\oop\exercicos_poo\ContaBancaria\obj\Debug\net8.0\ref\ContaBancaria.dll

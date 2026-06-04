@@ -1,0 +1,13 @@
+﻿ContaBancaria c1 = new ContaBancaria();
+Console.WriteLine("Informe o nome do titular da conta: ");
+c1.Titular = Console.ReadLine();
+
+// Depositar R$500
+c1.Depositar(500);
+
+// Sacar R$150
+c1.Sacar(150);
+
+// Mostrar saldo final
+double saldoFinal = c1.ExibirSaldo();
+Console.WriteLine($"Saldo final do(a) {c1.Titular}: R${saldoFinal:F2}");
