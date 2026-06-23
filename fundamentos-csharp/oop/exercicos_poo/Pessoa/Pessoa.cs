@@ -4,23 +4,20 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-    class Pessoa
+class Pessoa
+{
+    public string Nome;
+    public string Idade;
+
+    public Pessoa(string nome,string idade)
     {
-        // atributos
-        public string Nome;
-        public int Idade;
-        
-        //metodos
-        public void Apresentar()
-        {
-            Console.WriteLine($"Olá meu nome é {Nome} e tenho {Idade} anos");
-        }
-        // metodo verificar idade
-       public string VerificarIdade()
-        {
-        return Idade >= 18 ? "Maior idade" : "Menor idade"; 
-        }
+        Nome = nome;
+        Idade = idade;
     }
 
 
+
+
+
+}
 

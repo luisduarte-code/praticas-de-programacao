@@ -5,7 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 
 
-     class Carro
+     class Carro // a classe é o molde do carro, porem neste caso estamos buscando saber a velocidade dele nos momentos.
     {
     public string Marca;
     public string Modelo;

@@ -3,21 +3,21 @@
   "WorkspaceRootPath": "C:\\GitHub\\public\\praticas-de-programacao\\fundamentos-csharp\\oop\\exercicos_poo\\produto\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{31A67AAA-F2FC-7DC8-E777-E09C6EC58248}|produto.csproj|c:\\github\\public\\praticas-de-programacao\\fundamentos-csharp\\oop\\exercicos_poo\\produto\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{31A67AAA-F2FC-7DC8-E777-E09C6EC58248}|produto.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{643218D0-0217-4DA3-A88E-3674AB010DAF}|Produto.csproj|c:\\github\\public\\praticas-de-programacao\\fundamentos-csharp\\oop\\exercicos_poo\\produto\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{643218D0-0217-4DA3-A88E-3674AB010DAF}|Produto.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{31A67AAA-F2FC-7DC8-E777-E09C6EC58248}|produto.csproj|c:\\github\\public\\praticas-de-programacao\\fundamentos-csharp\\oop\\exercicos_poo\\produto\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{31A67AAA-F2FC-7DC8-E777-E09C6EC58248}|produto.csproj|solutionrelative:produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{643218D0-0217-4DA3-A88E-3674AB010DAF}|Produto.csproj|c:\\github\\public\\praticas-de-programacao\\fundamentos-csharp\\oop\\exercicos_poo\\produto\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{643218D0-0217-4DA3-A88E-3674AB010DAF}|Produto.csproj|solutionrelative:produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
     {
-      "Orientation": 0,
+      "Orientation": 1,
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedWidth": 200,
+          "DockedHeight": 272,
           "SelectedChildIndex": 2,
           "Children": [
             {
@@ -32,9 +32,9 @@
               "RelativeDocumentMoniker": "Produto.cs",
               "ToolTip": "C:\\GitHub\\public\\praticas-de-programacao\\fundamentos-csharp\\oop\\exercicos_poo\\produto\\Produto.cs",
               "RelativeToolTip": "Produto.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAAABIAAAAEAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-04T02:16:42.354Z",
+              "WhenOpened": "2026-06-16T03:00:42.349Z",
               "EditorCaption": ""
             },
             {
@@ -45,9 +45,9 @@
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\GitHub\\public\\praticas-de-programacao\\fundamentos-csharp\\oop\\exercicos_poo\\produto\\Program.cs*",
               "RelativeToolTip": "Program.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAlAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-04T02:14:01.426Z",
+              "WhenOpened": "2026-06-16T02:57:37.847Z",
               "EditorCaption": ""
             }
           ]

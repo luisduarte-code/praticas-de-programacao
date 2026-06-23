@@ -6,15 +6,15 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v8.0": {
-      "produto/1.0.0": {
+      "Produto/1.0.0": {
         "runtime": {
-          "produto.dll": {}
+          "Produto.dll": {}
         }
       }
     }
   },
   "libraries": {
-    "produto/1.0.0": {
+    "Produto/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

@@ -1,37 +1,36 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\GitHub\\public\\praticas-de-programacao\\fundamentos-csharp\\Pessoa\\",
+  "WorkspaceRootPath": "C:\\GitHub\\public\\praticas-de-programacao\\fundamentos-csharp\\oop\\exercicos_poo\\Pessoa\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E3320993-A313-4E4E-B8C3-2CF7CC3091A9}|Pessoa.csproj|c:\\github\\public\\praticas-de-programacao\\fundamentos-csharp\\pessoa\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E3320993-A313-4E4E-B8C3-2CF7CC3091A9}|Pessoa.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C0E9B89C-F9E8-46CF-A48C-44E5B109DB02}|Pessoa.csproj|c:\\github\\public\\praticas-de-programacao\\fundamentos-csharp\\oop\\exercicos_poo\\pessoa\\pessoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0E9B89C-F9E8-46CF-A48C-44E5B109DB02}|Pessoa.csproj|solutionrelative:pessoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E3320993-A313-4E4E-B8C3-2CF7CC3091A9}|Pessoa.csproj|c:\\github\\public\\praticas-de-programacao\\fundamentos-csharp\\pessoa\\pessoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E3320993-A313-4E4E-B8C3-2CF7CC3091A9}|Pessoa.csproj|solutionrelative:pessoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C0E9B89C-F9E8-46CF-A48C-44E5B109DB02}|Pessoa.csproj|c:\\github\\public\\praticas-de-programacao\\fundamentos-csharp\\oop\\exercicos_poo\\pessoa\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0E9B89C-F9E8-46CF-A48C-44E5B109DB02}|Pessoa.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
     {
-      "Orientation": 0,
+      "Orientation": 1,
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "DockedHeight": 272,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Pessoa.cs",
-              "DocumentMoniker": "C:\\GitHub\\public\\praticas-de-programacao\\fundamentos-csharp\\Pessoa\\Pessoa.cs",
+              "DocumentMoniker": "C:\\GitHub\\public\\praticas-de-programacao\\fundamentos-csharp\\oop\\exercicos_poo\\Pessoa\\Pessoa.cs",
               "RelativeDocumentMoniker": "Pessoa.cs",
-              "ToolTip": "C:\\GitHub\\public\\praticas-de-programacao\\fundamentos-csharp\\Pessoa\\Pessoa.cs",
+              "ToolTip": "C:\\GitHub\\public\\praticas-de-programacao\\fundamentos-csharp\\oop\\exercicos_poo\\Pessoa\\Pessoa.cs",
               "RelativeToolTip": "Pessoa.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-04T01:51:20.434Z",
-              "IsPinned": true,
+              "WhenOpened": "2026-06-16T02:46:07.156Z",
               "EditorCaption": ""
             },
             {
@@ -40,15 +39,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\GitHub\\public\\praticas-de-programacao\\fundamentos-csharp\\Pessoa\\Program.cs",
+              "DocumentMoniker": "C:\\GitHub\\public\\praticas-de-programacao\\fundamentos-csharp\\oop\\exercicos_poo\\Pessoa\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\GitHub\\public\\praticas-de-programacao\\fundamentos-csharp\\Pessoa\\Program.cs",
+              "ToolTip": "C:\\GitHub\\public\\praticas-de-programacao\\fundamentos-csharp\\oop\\exercicos_poo\\Pessoa\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAqAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-04T01:50:41.493Z",
+              "WhenOpened": "2026-06-15T19:43:29.155Z",
               "EditorCaption": ""
             }
           ]

@@ -1,36 +1,18 @@
 ﻿using System;
-using System.Collections.Concurrent;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-
-
-internal class Produto
+class Produto
 {
-    //atributos
     public string Nome;
     public double Preco;
-    public int Qtd;
 
-    //metodos
-
-    
-    public double ValorEstoque()
+    public Produto(string nome, double preco)
     {
+        Nome = nome;
+        Preco = preco;
 
-        return Qtd * Preco;
     }
-
-
-
-
-
 }
-
-
-
-
-
-

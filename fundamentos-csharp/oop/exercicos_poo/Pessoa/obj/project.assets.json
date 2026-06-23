@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\GitHub\\public\\praticas-de-programacao\\fundamentos-csharp\\Pessoa\\Pessoa.csproj",
+      "projectUniqueName": "C:\\GitHub\\public\\praticas-de-programacao\\fundamentos-csharp\\oop\\exercicos_poo\\Pessoa\\Pessoa.csproj",
       "projectName": "Pessoa",
-      "projectPath": "C:\\GitHub\\public\\praticas-de-programacao\\fundamentos-csharp\\Pessoa\\Pessoa.csproj",
+      "projectPath": "C:\\GitHub\\public\\praticas-de-programacao\\fundamentos-csharp\\oop\\exercicos_poo\\Pessoa\\Pessoa.csproj",
       "packagesPath": "C:\\Users\\Duarte\\.nuget\\packages\\",
-      "outputPath": "C:\\GitHub\\public\\praticas-de-programacao\\fundamentos-csharp\\Pessoa\\obj\\",
+      "outputPath": "C:\\GitHub\\public\\praticas-de-programacao\\fundamentos-csharp\\oop\\exercicos_poo\\Pessoa\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
