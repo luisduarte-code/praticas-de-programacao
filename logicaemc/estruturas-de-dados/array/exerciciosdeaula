@@ -1,0 +1,86 @@
+#include <stdio.h>
+main(){
+int vet[10], i;
+printf("Abaixo insira os numeros que deseja armazenar no vetor:\n");
+for( i = 0 ; i<10; i++){
+	printf("Informe o numero que desejas colocar na posicao %d: ", i+1);
+	scanf("%d",&vet[i]);
+}
+for( i = 0 ; i<10 ; i++){
+printf("%d\n",vet[i]);
+}
+}
+
+#include <stdio.h>
+main(){
+	int i,vet[8],SomaNum=0;
+	for(i=0 ; i<8; i++){
+		printf("Informe o numero que desejas colocar na posicao %d: ",i+1);
+		scanf("%d",&vet[i]);
+		SomaNum +=vet[i];
+	}
+	printf("Resultado da soma = %d",SomaNum);
+	
+	
+	
+	
+}
+#include <stdio.h>
+main(){
+	int i,vet[10],MediaNum=0,SomaNum=0;
+	for(i=0 ; i<10; i++){
+	printf("Informe o numero que desejas colocar na posicao %d: ",i+1);
+	scanf("%d",&vet[i]);
+	SomaNum +=vet[i];
+	MediaNum= SomaNum/10;
+	}
+	printf("A media = %d",MediaNum);
+	
+	
+	
+	
+}
+#include <stdio.h>
+main(){
+	int vet[15],maior=0,i;	
+	for(i=0 ; i<15; i++){
+		printf("Informe o numero que desejas colocar na posicao %d: ",i+1);
+		scanf("%d",&vet[i]);
+		if(vet[i] > maior){
+			maior = vet[i];
+		}
+	}
+	printf("Maior num = %d",maior);
+	}
+  #include <stdio.h>
+main(){
+	int vet[12],i,menor,pos=0;	
+	for(i=0 ; i<12; i++){
+		printf("Informe o numero que desejas colocar na posicao %d: ",i+1);
+		scanf("%d",&vet[i]);
+	}
+	menor = vet[0];
+	for(i=0 ; i<12; i++){
+	if(vet[i] < menor){
+			menor = vet[i];
+			pos = i;
+		}
+	}
+	printf("Menor num = %d",menor);
+	}
+  #include <stdio.h>
+main(){
+	int i,vet[20],countpar=0;
+	for(i=0 ; i<20; i++){
+		printf("Informe o numero que desejas colocar na posicao %d: ",i+1);
+		scanf("%d",&vet[i]);
+		if(vet[i]%2 == 0){
+			countpar++;
+		}
+	}
+	printf("A quantidade de numeros pares = %d",countpar);
+	
+	
+	
+	
+}
