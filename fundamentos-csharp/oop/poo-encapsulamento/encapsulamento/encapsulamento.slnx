@@ -1,0 +1,7 @@
+<Solution>
+  <Folder Name="/Solution Items/">
+    <File Path=".editorconfig" />
+    <File Path="Car.cs" />
+  </Folder>
+  <Project Path="encapsulamento.csproj" />
+</Solution>

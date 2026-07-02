@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\GitHub\\public\\praticas-de-programacao\\fundamentos-csharp\\poo_construtor\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{197D3A19-3DE6-4B19-A175-CD0D67B299A6}|poo_construtor.csproj|c:\\github\\public\\praticas-de-programacao\\fundamentos-csharp\\poo_construtor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{197D3A19-3DE6-4B19-A175-CD0D67B299A6}|poo_construtor.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9D8CA285-EE51-2B57-3524-A59EEECB057A}|poo_construtor.csproj|c:\\github\\public\\praticas-de-programacao\\fundamentos-csharp\\poo_construtor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D8CA285-EE51-2B57-3524-A59EEECB057A}|poo_construtor.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{197D3A19-3DE6-4B19-A175-CD0D67B299A6}|poo_construtor.csproj|c:\\github\\public\\praticas-de-programacao\\fundamentos-csharp\\poo_construtor\\pessoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{197D3A19-3DE6-4B19-A175-CD0D67B299A6}|poo_construtor.csproj|solutionrelative:pessoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9D8CA285-EE51-2B57-3524-A59EEECB057A}|poo_construtor.csproj|c:\\github\\public\\praticas-de-programacao\\fundamentos-csharp\\poo_construtor\\pessoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D8CA285-EE51-2B57-3524-A59EEECB057A}|poo_construtor.csproj|solutionrelative:pessoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,8 +34,7 @@
               "RelativeToolTip": "Pessoa.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-02T13:48:45.641Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-02T13:48:45.641Z"
             },
             {
               "$type": "Document",
